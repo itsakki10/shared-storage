@@ -5,7 +5,7 @@ import {
   Activity,
   Info,
   Layers,
-  Scan,
+  Scan, 
   Droplets,
   Flame,
   Sparkles,
