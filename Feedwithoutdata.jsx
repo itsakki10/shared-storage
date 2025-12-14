@@ -10,7 +10,7 @@
             theme: {
                 extend: {
                     colors: {
-                        'smart-green': '#10b981', 
+                        'smart-green': '#10b981',  
                         'smart-dark-green': '#059669',
                         'smart-light-green': '#d1fae5',
                         'smart-text-dark': '#1f2937',
