@@ -6,7 +6,7 @@
     <title>DEBUG: Eco-Connect Feed</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
-        // Define your custom Tailwind colors for the preview
+        // Define your custom Tailwind colors for the preview  
         tailwind.config = {
             theme: {
                 extend: {
