@@ -106,7 +106,7 @@
             const postModal = document.getElementById('postModal');
 
             if (openModalBtn && postModal) {
-                 // ONLY hide the modal initially IF the button exists
+                 // ONLY hide the modal initially IF the button exists 
                 postModal.classList.add('hidden'); 
 
                 openModalBtn.addEventListener('click', () => {
