@@ -2,7 +2,7 @@
 
 import React, { useState, useMemo, useCallback, useRef, useEffect } from 'react';
 import { Search, Briefcase, Calendar, GraduationCap, Code, MessageSquare, Send, X, Filter, ChevronDown, Check } from 'lucide-react';
-
+ 
   
 const PRIMARY_COLOR_CLASSES = 'bg-[#00A389] hover:bg-[#008F79]';
 const SECONDARY_COLOR_CLASSES = 'text-[#1F3A66]';
