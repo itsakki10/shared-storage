@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react"; 
 import {
   Wind,
-  Trash2,
+  Trash2, 
   Activity,
   Info,
   Layers,
