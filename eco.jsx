@@ -3,7 +3,7 @@ import React, { useState, useEffect, useCallback, useRef, useMemo } from 'react'
 import { Zap, Trophy, MapPin, User, CheckCircle, Camera, Leaf, Trash2, BookOpen, Download, TrendingUp } from 'lucide-react';
 
 
-const __app_id = 'eco-platform-demo';
+const __app_id = 'eco-platform-demo'; 
 const __initial_auth_token = 'mock-auth-token'; 
 
 
