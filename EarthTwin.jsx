@@ -3,7 +3,7 @@ import {
   Wind,
   Trash2, 
   Activity,
-  Info, 
+  Info,  
   Layers,
   Scan, 
   Droplets,
