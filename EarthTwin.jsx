@@ -6,7 +6,7 @@ import {
   Info,  
   Layers,
   Scan, 
-  Droplets,
+  Droplets, 
   Flame, 
   Sparkles,
 } from "lucide-react";
