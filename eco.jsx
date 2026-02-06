@@ -4,7 +4,7 @@ import { Zap, Trophy, MapPin, User, CheckCircle, Camera, Leaf, Trash2, BookOpen,
 
  
 const __app_id = 'eco-platform-demo'; 
-const __initial_auth_token = 'mock-auth-token'; 
+const __initial_auth_token = 'mock-auth-token';  
 
 
 const INITIAL_USER_STATE = {
